@@ -1,6 +1,6 @@
 # msfs-bindings
 
-Export Microsoft Flight Simulator Key and Joystick bindings to a csv file
+Export Microsoft Flight Simulator Key and Joystick bindings to csv files.
 
 
 Set remotPath in appsettings.json to the directory where the inputprofile files are :
