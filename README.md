@@ -1,9 +1,11 @@
 # msfs-bindings
 
-Export Microsoft Flight Simulator Key and Joystick bindings to csv files.
+Export Microsoft Flight Simulator Keyboard and Joystick bindings to csv files.
 
 
 Set remotePath in appsettings.json to the directory where the inputprofile files are :
+
+![screenshot](https://i.imgur.com/TVYwzlF.png)
 
 For the Steam version, that is something like :
 
@@ -16,6 +18,5 @@ For the MS store version, that is something like (unable to verify):
 ```
 "remotePath": "C:\\Users\\YOURUSERNAME\\AppData\\Local\\Packages\\Microsoft.FlightSimulator_8wekyb3d8bbwe\\SystemAppData\\wgs"
 ```
-
 
 ![screenshot](https://i.imgur.com/S32qqTa.png)
