@@ -1,6 +1,6 @@
 # msfs-bindings
 
-.net7 console application to export Microsoft Flight Simulator 2020 Keyboard and Joystick bindings to csv files.
+.net8 console application to export Microsoft Flight Simulator 2020 Keyboard and Joystick bindings to csv files.
 
 Set remotePath in appsettings.json to the directory where the inputprofile files are :
 
